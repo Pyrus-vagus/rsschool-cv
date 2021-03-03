@@ -4,7 +4,7 @@
 
 [Contact me via email](mailto:grushadaria@gmail.com?subject=Apply%20for%20a%20job)
 
-[Telegram](https://t.me/
+[Telegram](https://t.me/pyrus_vagus)
 
 I am an optimistic, resourceful and energetic person and I would like to start my career as
 a Front End Developer. I am eager to grow in IT-sphere, to obtain essential knowledge
