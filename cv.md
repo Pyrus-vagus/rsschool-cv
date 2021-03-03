@@ -40,10 +40,10 @@ Works with Central Europe mainly.
 Analyzing data. Working with Excel(incl. macro), PowerApps, Sharepoint;
 
 ## *Education*
-IT-courses MyFreedom - Front-end development - Sept 2020 -April 2021;
-Udemy - The complete JavaScript Course 2021 *by Jonas Schmedtmann* - February - March 2021;
-JavaScript - The Definitive Guide. Seventh Edition - David Flanagan;
-BSEU - Finance and Banking - 2015-2019
+1. IT-courses MyFreedom - Front-end development - Sept 2020 -April 2021;
+2. Udemy - The complete JavaScript Course 2021 *by Jonas Schmedtmann* - February - March 2021;
+3. JavaScript - The Definitive Guide. Seventh Edition - David Flanagan;
+4. BSEU - Finance and Banking - 2015-2019
 
 ## *Additional Information*
 * English - C1 - Communicates with native speakers on a
