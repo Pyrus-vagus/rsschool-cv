@@ -2,6 +2,10 @@
 
 +375291215687
 
+[Contact me via email](mailto:grushadaria@gmail.com?subject=Apply%20for%20a%20job)
+
+[Telegram](https://t.me/
+
 I am an optimistic, resourceful and energetic person and I would like to start my career as
 a Front End Developer. I am eager to grow in IT-sphere, to obtain essential knowledge
 and skills, to leverage them during the working process and to advance in this career over time.
