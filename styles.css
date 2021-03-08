@@ -18,6 +18,7 @@ body {
 header {
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
   padding: 25px 70px;
 }
 .titles {
@@ -120,7 +121,7 @@ p {
   padding: 5px 0;
 }
 
-.skills {
+.secondcolumn {
   width: 40%;
   background-color: #ebeae6;
   padding: 0 70px 0 30px;
@@ -133,12 +134,19 @@ ul {
   padding: 7px 0px;
   font-weight: bolder;
 }
-.skills h2 {
+.secondcolumn h2 {
   text-align: center;
 }
 .skills li::before {
   content: "\2713";
   padding-right: 5px;
+}
+code {
+  display: block;
+  padding: 3px 10px;
+}
+.codesample {
+  padding-bottom: 10px;
 }
 
 footer {
