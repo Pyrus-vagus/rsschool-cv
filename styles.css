@@ -148,17 +148,19 @@ code {
 .codesample {
   padding-bottom: 10px;
 }
-
 footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 70px;
 }
-footer img {
-  width: 30%;
+.rsslogo {
+  width: 60px;
 }
-
+.youtubelogo,
+.gitlogo {
+  width: 25px;
+}
 footer p {
   font-weight: bolder;
 }
